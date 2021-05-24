@@ -1,0 +1,17 @@
+﻿@*@model List<StronglyTypedView_Demo.Models.Employee>*@
+@model IEnumerable<StronglyTypedView_Demo.Models.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+@{
+    foreach (var item in Model)
+    {
+        <h3>@item.Name</h3>
+        <h3>@item.Designation</h3>
+        <h3>@item.City</h3>
+    }
+}

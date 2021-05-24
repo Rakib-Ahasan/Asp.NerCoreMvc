@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<h3> Current date and time @DateTime.Now</h3>
+<h3> Current year @DateTime.Now.Year</h3>
+
+@{
+    string name = "Rakib Ahasan";
+    var currentDate = DateTime.Now.ToLongDateString();
+
+}
+
+<h2>@name</h2>
+<h2>@currentDate</h2>
+
+@{
+    string[] myarr = {"ali", "rakib", "ahasan"};
+    foreach (var item in myarr)
+    {
+        <h2>@item</h2>
+    }
+}

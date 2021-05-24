@@ -1,0 +1,16 @@
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\bin\Debug\netcoreapp2.1\Middlewares_Demo.deps.json
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\bin\Debug\netcoreapp2.1\Middlewares_Demo.runtimeconfig.json
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\bin\Debug\netcoreapp2.1\Middlewares_Demo.runtimeconfig.dev.json
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\bin\Debug\netcoreapp2.1\Middlewares_Demo.dll
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\bin\Debug\netcoreapp2.1\Middlewares_Demo.pdb
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.csprojAssemblyReference.cache
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.AssemblyInfoInputs.cache
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.AssemblyInfo.cs
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.csproj.CoreCompileInputs.cache
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.RazorAssemblyInfo.cache
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.RazorAssemblyInfo.cs
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.RazorTargetAssemblyInfo.cache
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.dll
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.pdb
+D:\Asp.NetCore\Middlewares_Demo\Middlewares_Demo\obj\Debug\netcoreapp2.1\Middlewares_Demo.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+<a href="Home/About">About Page 1</a>
+<br />
+@Html.ActionLink("About Page 2", "About", "Home")
+<br />
+<a href="@Url.Action("About","Home")">About Page 3</a>
+<br />
+<a asp-controller="Home" asp-action="About">About Page 4</a>
+
+<br />
+<br />
+<a href="Home/Details/1">About Page 1</a>
+<br />
+@Html.ActionLink("Details Page 2", "Details", "Home",new {id=1})
+<br />
+<a href="@Url.Action("Details","Home",new {id=1})">Details Page 3</a>
+<br />
+<a asp-controller="Home" asp-action="Details" asp-route-id="1">Details Page 4</a>
